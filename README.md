@@ -9,7 +9,7 @@ the folder contains one sample input file and its corresponding results
 
 # notes
 - program uses regex, it's slow when processing binary results (pdf, docs...)
-- some false positives might accur as it does not verify TLD's (could return example@sample.jpg thinking it's an email address)
-- please do not misuse!
+- some false positives might accur as TLD's are not checked (could return example@sample.jpg thinking it's an email address)
+- **please do not misuse!**
 
 ![Example](./scrape.png "Example of session")
