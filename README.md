@@ -11,3 +11,5 @@ the folder contains one sample input file and its corresponding results
 - program is slow especially when processing binary results (pdf, docs...)
 - it's a POC not meant to be fast!
 - please do not misuse!
+
+![Example](./scrape.png "Example of session")
